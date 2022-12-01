@@ -16,3 +16,16 @@ nav ul{
       color: green;
     }
   }
+
+
+@media screen and (max-width: 1250px) {
+    ul:nth-child(5) li:nth-child(1) {
+      color: orange;
+    }
+  }
+
+@media screen and (max-width: 1250px) {
+    ul:nth-child(5) li:nth-child(2) {
+      color: red;
+    }
+  }
