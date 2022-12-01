@@ -43,3 +43,17 @@ nav ul{
     color: blue;
     }
   }
+
+@media screen and (max-width: 800px) {
+    h2:nth-child(8) {
+    border: 2px solid;
+    color: green;
+    }
+  }
+@media screen and (min-width: 900px) {
+    h2:nth-child(8) {
+    border: 2px solid;
+    color: green;
+    }
+  }
+
