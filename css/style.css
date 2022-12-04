@@ -83,3 +83,12 @@ nav ul{
     }
 
 }
+
+@media print {
+  h2 {
+    color: black;
+    background-image: none;
+
+  }
+}
+
