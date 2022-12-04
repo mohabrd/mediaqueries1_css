@@ -67,3 +67,19 @@ nav ul{
         color: red;
     }
   }
+
+#exo6 {
+    height: 250px;
+    width: 250px;
+    background-image: url(../images/tartine.jpg);
+    background-size: cover
+
+}
+
+@media screen and (max-width:900px) {
+    #exo6 {
+        height: 125px;
+        width: 125px;
+    }
+
+}
